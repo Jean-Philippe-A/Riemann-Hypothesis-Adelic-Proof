@@ -44,14 +44,14 @@ Associated with the Sturm-Liouville operator:
 
 $$\mathcal{W}_R^{\text{final}}\psi(x) = -\frac{d}{dx}\left[ g_R(x)\frac{d\psi}{dx} \right] + \left[ (2\pi R x)^2 + \sum_{n=2}^{\lfloor R \rfloor} g_R(x)\frac{\kappa_n}{(x - R/n)^2} \right]\psi(x)$$
 
-Since $\kappa_n = 2\left(1 + \frac{\Lambda(n)}{\sqrt{n}}\right) \ge 2 > \frac{3}{4}$, Weyl's limit-point criterion guarantees that $\mathcal{W}_R^{\text{final}}$ is essentially self-adjoint with deficiency indices $(0,0)$, locking all ultraviolet eigenvalues $\lambda_k = -\gamma_k^2 \in \mathbb{R}_-$ and forcing $\mathrm{Re}(\rho_k) = \frac{1}{2}$.
+Since $`\kappa_n = 2\left(1 + \frac{\Lambda(n)}{\sqrt{n}}\right) \ge 2 > \frac{3}{4}`$, Weyl's limit-point criterion guarantees that $`\mathcal{W}_R^{\text{final}}`$ is essentially self-adjoint with deficiency indices $`(0,0)`$, locking all ultraviolet eigenvalues $`\lambda_k = -\gamma_k^2 \in \mathbb{R}_-`$ and forcing $`\mathrm{Re}(\rho_k) = \frac{1}{2}`$.
 
 ### 3. WKB-Airy Matching & Spectral Completeness (Parts III & IV)
 Through Taylor-Langer linearization at the horizon $x = R$ (universal Airy equation $\psi''(z) - z\psi(z) = 0$) and the exact algebraic cancellation between the quadratic metric exponent and the Riemannian arc-length square root ($\sqrt{(\cdot)^{2w_n}} = (\cdot)^{w_n}$), the total scattering phase converges as $R \to \infty$ to:
 
 $$\lim_{R\to\infty} \Theta_{\text{tot}}(\gamma, R) = \theta(\gamma) + \arg\zeta\left(\frac{1}{2} + i\gamma\right) = \arg\xi\left(\frac{1}{2} + i\gamma\right)$$
 
-In the inverse logarithmic coordinate $u = \ln(R/x)$, all cellular boundary terms vanish identically ( $[g_R \bar{\psi}\psi']_{R/(n+1)}^{R/n} = 0$ ) and the normalized metric converges normally in $O(\Lambda(n)n^{-5/2})$, ensuring strong resolvent convergence $W_R^{\mathrm{final}} \to W_\infty$ and defect-free spectral completeness $N_{\mathrm{op}}(T) = N_\zeta(T)$.
+In the inverse logarithmic coordinate $`u = \ln(R/x)`$, all cellular boundary terms vanish identically ($`[g_R \overline{\psi}\psi']_{R/(n+1)}^{R/n} = 0`$) and the normalized metric converges normally in $`\mathcal{O}(\Lambda(n)n^{-5/2})`$, ensuring strong resolvent convergence $`\mathcal{W}_R^{\text{final}} \to \mathcal{W}_\infty`$ and defect-free spectral completeness $`N_{\text{op}}(T) = N_\zeta(T)`$.
 
 ---
 
