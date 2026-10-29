@@ -51,7 +51,7 @@ Through Taylor-Langer linearization at the horizon $x = R$ (universal Airy equat
 
 $$\lim_{R\to\infty} \Theta_{\text{tot}}(\gamma, R) = \theta(\gamma) + \arg\zeta\left(\frac{1}{2} + i\gamma\right) = \arg\xi\left(\frac{1}{2} + i\gamma\right)$$
 
-In the inverse logarithmic coordinate $u = \ln(R/x)$, all cellular boundary terms vanish identically ($[g_R \overline{\psi}\psi']_{R/(n+1)}^{R/n} = 0$) and the normalized metric converges normally in $\mathcal{O}(\Lambda(n)n^{-5/2})$, ensuring strong resolvent convergence $\mathcal{W}_R^{\text{final}} \to \mathcal{W}_\infty$ and defect-free spectral completeness $N_{\text{op}}(T) = N_\zeta(T)$.
+In the inverse logarithmic coordinate $u = \ln(R/x)$, all cellular boundary terms vanish identically ( $[g_R \bar{\psi}\psi']_{R/(n+1)}^{R/n} = 0$ ) and the normalized metric converges normally in $O(\Lambda(n)n^{-5/2})$, ensuring strong resolvent convergence $W_R^{\mathrm{final}} \to W_\infty$ and defect-free spectral completeness $N_{\mathrm{op}}(T) = N_\zeta(T)$.
 
 ---
 
