@@ -20,9 +20,9 @@ Adelic Cellular Geometry, Multi-Scale Metric Tensor and Self-Adjoint Spectral Re
 - 🇬🇧 **[Download the Full Memoir in English (PDF - 20 pages)](./Demonstration_of_the_Riemann_Hypothesis%20-%20EN.pdf)**
 
 ### 2. Companion Algorithmic Engine v3.0 (Python / PDF / Certified CSV)
-- 🐍 **[Universal Hybrid Prime Engine v3.0 (`annet_adelic_prime_engine_v3.py`)](./annet_adelic_prime_engine_v3.py)** — *Google Colab ready ($x = 10^k$ up to $10^{14}$)*
+- 🐍 **[Universal Hybrid Prime Engine v3.0 (`annet_adelic_prime_engine_v3.py`)](./annet_adelic_prime_engine_v3.py)** — Google Colab ready ($x = 10^k$ up to $10^{14}$)
 - 📘 **[Fiche Technique & Méthodologique v3.0 (PDF - 3 pages)](./Fiche_Technique_Moteur_Hybride_Adelique_Spectral_Annet.pdf)** — *Architecture mathématique et preuves de convergence*
-- 📊 **[Fichier Preuve Certifié CSV (`Preuve_Nombres_Premiers_Detectes_Annet.csv`)](./Preuve_Nombres_Premiers_Detectes_Annet.csv)** — *Sonde locale certifiée sur $[10^{12}, 10^{12} + 100\,000]$ ($3\,614$ nombres premiers isolés en $12,42\text{ ms}$)*
+- 📊 **[Fichier Preuve Certifié CSV (`Preuve_Nombres_Premiers_Detectes_Annet.csv`)](./Preuve_Nombres_Premiers_Detectes_Annet.csv)** — Sonde locale certifiée sur $[10^{12}, 10^{12} + 100,000]$ (3,614 nombres premiers isolés en 12,42 ms)
 
 ---
 
